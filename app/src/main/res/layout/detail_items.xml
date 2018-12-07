@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/place_image"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:contentDescription="@string/share"
+        android:src="@drawable/museo_antropologia" />
+
+    <TextView
+        android:id="@+id/place_name"
+        style="@style/customText"
+        android:padding="@dimen/activity_vertical_margin" />
+
+    <TextView
+        android:id="@+id/place_description"
+        style="@style/detailText"
+        android:padding="@dimen/activity_vertical_margin" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="@dimen/activity_vertical_margin"
+            android:src="@drawable/ic_time" />
+
+        <TextView
+            android:id="@+id/place_hours"
+            style="@style/detailText"
+            android:padding="@dimen/activity_vertical_margin" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="@dimen/activity_vertical_margin"
+            android:src="@drawable/baseline_local_phone_black_24dp" />
+
+        <TextView
+            android:id="@+id/place_contact"
+            style="@style/detailText"
+            android:autoLink="phone"
+            android:padding="@dimen/activity_vertical_margin" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:padding="@dimen/activity_vertical_margin"
+            android:src="@drawable/ic_web" />
+
+        <TextView
+            android:id="@+id/place_website"
+            style="@style/detailText"
+            android:autoLink="web"
+            android:padding="@dimen/activity_vertical_margin" />
+    </LinearLayout>
+</LinearLayout>

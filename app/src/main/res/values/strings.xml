@@ -1,0 +1,286 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="share">TODO</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Label for DeitalActicty [CHAR LIMIT=20]-->
+    <string name="category_detail">Details</string>
+
+    <!-- Category name for the options for Museums [CHAR LIMIT=20] -->
+    <string name="category_museums">Museums</string>
+
+    <!-- Category name for the options for Restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurants">Restaurants</string>
+
+    <!-- Category name for the options for Shoppings [CHAR LIMIT=20] -->
+    <string name="category_shoppings">Shoppings</string>
+
+    <!-- Category name for the options for Activities [CHAR LIMIT=20] -->
+    <string name="category_activities">Activities</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Museum name for the option for Museo Maya [CHAR LIMIT=20] -->
+    <string name="museum_maya">Gran Museo del Mundo Maya</string>
+
+    <!-- Museum description for the option for Museo Maya [CHAR LIMIT=1000] -->
+    <string name="museum_maya_description">El Museo exhibe una magnífica colección de más de 1,160 piezas que permite disfrutar, entre otros ejemplos, textiles, elementos religiosos, piezas y diversos objetos y enseres que reflejan la vida cotidiana actual de los mayas. También se muestran grabados, libros y documentos históricos, así como obras artísticas y religiosas de la época colonial; acervos de la época prehispánica que incluyen estelas, bajorrelieves y esculturas en piedra; vasijas, ajuares y ofrendas de cerámica, además de adornos y objetos suntuarios de oro, jade y concha. Todo ello forma un entramado en donde el pasado y el presente se conjugan a través de las nuevas tecnologías y sistemas digitales para permitirle al visitante viajar en el tiempo y retornar al presente.</string>
+
+    <!-- Museum hours for the option for Museo Maya [CHAR LIMIT=50] -->
+    <string name="museum_maya_hour">Working Hours: Wednesday to Monday 10:00 - 17:00</string>
+
+    <!-- Museum phone for the option for Museo Maya [CHAR LIMIT=50] -->
+    <string name="museum_maya_phone">+1 52 (999) 122 95 76</string>
+
+    <!-- Museum website for the option for Museo Maya [CHAR LIMIT=50] -->
+    <string name="museum_maya_website">www.granmuseodelmundomaya.com.mx</string>
+
+    <!-- Museum name for the option for Museo de Antropologia e Historia [CHAR LIMIT=20] -->
+    <string name="museum_antropologia">Museo de Antropologia e Historia</string>
+
+    <!-- Museum description for the option for Museo Antropologia [CHAR LIMIT=1000] -->
+    <string name="museum_antropologia_description">El Palacio Cantón fue construido en la primera década del siglo XX como residencia familiar del Gral. Francisco Cantón Rosado. El General Cantón (1833-1917) fue uno de los más destacados personajes de su tiempo. Como militar, luchó en la Guerra de Castas contra los mayas rebeldes. Fue propietario de haciendas ganaderas y empresario de ferrocarriles, y fue gobernador de Yucatán entre 1898 - 1902. En 1932, la familia Cantón vendió el edificio al gobierno de Yucatán. A partir de entonces fue, sucesivamente, sede de la Escuela de Bellas Artes, de la Escuela Primaria Hidalgo y casa de los gobernadores. Después albergó, simultáneamente, al Instituto Yucateco de Antropología e Historia y a la Biblioteca Crescencio Carrillo y Ancona, ubicados en la planta principal, así como al Museo Arqueológico e Histórico de Yucatán, en el sótano.</string>
+
+    <!-- Museum hours for the option for Museo Antropologia [CHAR LIMIT=50] -->
+    <string name="museum_antropologia_hour">Working Hours: Tuesday to Sunday 08:00 - 17:00</string>
+
+    <!-- Museum phone for the option for Museo Antropologia [CHAR LIMIT=50] -->
+    <string name="museum_antropologia_phone">+1 52 (999) 923 05 57</string>
+
+    <!-- Museum website for the option for Museo Antropologia [CHAR LIMIT=50] -->
+    <string name="museum_antropologia_website">www.palaciocanton.inah.gob.mx</string>
+
+    <!-- Museum name for the option for Museo de Arte Comtemporaneo [CHAR LIMIT=20] -->
+    <string name="museum_macay">Museo de Arte Comtemporaneo, MACAY</string>
+
+    <!-- Museum description for the option for Museo Arte Comtemporaneo [CHAR LIMIT=1000] -->
+    <string name="museum_macay_description">El Museo Fernando García Ponce-Macay es el único museo dedicado a la promoción y difusión del arte moderno y contemporáneo en toda la península de Yucatán, México. Anualmente recibe un promedio de 72 mil visitantes. Y si algo lo distingue, es su profunda vocación educativa, atendiendo al año a más de 22 mil niños, a través de programas especiales, cursos, talleres y visitas guiadas.</string>
+
+    <!-- Museum hours for the option for Museo Arte Comtemporaneo [CHAR LIMIT=50] -->
+    <string name="museum_macay_hour">Working Hours: Tuesday to Sunday 10:00 - 18:00</string>
+
+    <!-- Museum phone for the option for Museo Arte Comtemporaneo [CHAR LIMIT=50] -->
+    <string name="museum_macay_phone">+1 52 (999) 928 32 58</string>
+
+    <!-- Museum website for the option for Museo Arte Comtemporaneo [CHAR LIMIT=50] -->
+    <string name="museum_macay_website">https://macay.org/p/1/museo</string>
+
+    <!-- Museum name for the option for Centro Cultural Olimpo [CHAR LIMIT=20] -->
+    <string name="museum_olimpo">Centro Cultural Olimpo</string>
+
+    <!-- Museum description for the option for Museo Arte Comtemporaneo [CHAR LIMIT=1000] -->
+    <string name="museum_olimpo_description">Edificio de arquitectura contemporánea, fue inaugurado el 6 de enero de 1999 para celebrar el 457 Aniversario de la fundación de Mérida. Con la construcción de este recinto no sólo se recuperó el encanto visual de nuestra Plaza Grande, sino se brindó al público meridano y a los visitantes un espacio de esparcimiento donde es posible gozar de manifestaciones artísticas y culturales.</string>
+
+    <!-- Museum hours for the option for Museo Arte Comtemporaneo [CHAR LIMIT=50] -->
+    <string name="museum_olimpo_hour">Working Hours: Monday to Saturday 10:00 - 20:00</string>
+
+    <!-- Museum phone for the option for Museo Arte Comtemporaneo [CHAR LIMIT=50] -->
+    <string name="museum_olimpo_phone">+1 52 (999) 942 00 00</string>
+
+    <!-- Museum website for the option for Museo Arte Comtemporaneo [CHAR LIMIT=50] -->
+    <string name="museum_olimpo_website">www.mexicoescultura.com/recinto/57077/centro-cultural-olimpo-merida.html</string>
+
+    <!-- Restaurat name for the option for "Manjar Blanco [CHAR LIMIT=20] -->
+    <string name="restaurant_manjar">"Manjar Blanco</string>
+
+    <!-- Restaunrant description for the option for Manjar Blanco [CHAR LIMIT=1000] -->
+    <string name="restaurant_manjar_description">Manjar Blanco es todo un paraíso. Si te gusta la comida yucateca, lo amarás. Haz de cuenta, todos los antojitos yucatecos en un restaurancito tranquilito, bonito a medias, sin grandes lujos, pero con mucho encanto. Todo lo que pidas, seguro estará delicioso. A diferencia de muchos restaurantes de comida típica yucateca, aquí la presentación de los platillos es tan exquisita como su sazón.</string>
+
+    <!-- Restaunrant hours for the option for Manjar Blanco [CHAR LIMIT=50] -->
+    <string name="restaurant_manjar_hour">Working Hours: Sunday to Saturday 08:00 - 18:00</string>
+
+    <!-- Restaunrant phone for the option for Manjar Blanco [CHAR LIMIT=50] -->
+    <string name="restaurant_manjar_phone">+1 52 (999) 923 00 03</string>
+
+    <!-- Restaunrant website for the option for Manjar Blanco [CHAR LIMIT=50] -->
+    <string name="restaurant_manjar_website">www.manjarblanco.com</string>
+
+    <!-- Restaurat name for the option for Hacienda Teya [CHAR LIMIT=20] -->
+    <string name="restaurant_teya">Hacienda Teya</string>
+
+    <!-- Restaunrant description for the option for Hacienda Teya [CHAR LIMIT=1000] -->
+    <string name="restaurant_teya_description">La Hacienda Teya fue fundada en 1683 como una hacienda agrícola y ganadera. A principios del siglo XX, cambiamos de giro para dedicarnos al cultivo de henequén, ¡incluso llegamos a ser una de las haciendas henequeneras más importantes de Yucatán! Hasta los años setenta que dejamos de trabajar este material por completo. Hoy en día, Hacienda Teya es reconocida por su restaurante de exquisita comida yucateca, por sus áreas verdes y salones para eventos sociales dentro de un marco de edificios del Siglo XVII y exuberante vegetación.</string>
+
+    <!-- Restaunrant hours for the option for Hacienda Teya [CHAR LIMIT=50] -->
+    <string name="restaurant_teya_hour">Working Hours: Monday to Saturday 12:00 - 18:00</string>
+
+    <!-- Restaunrant phone for the option for Hacienda Teya [CHAR LIMIT=50] -->
+    <string name="restaurant_teya_phone">+1 52 (999) 988 08 00</string>
+
+    <!-- Restaunrant website for the option for Hacienda Teya [CHAR LIMIT=50] -->
+    <string name="restaurant_teya_website">https://haciendateya.com/</string>
+
+    <!-- Restaurat name for the option for Wayané [CHAR LIMIT=20] -->
+    <string name="restaurant_wayane">Wayané</string>
+
+    <!-- Restaunrant description for the option for Wayané [CHAR LIMIT=1000] -->
+    <string name="restaurant_wayane_description">Wayané es de los mejores lugares para desayunarse unos taquitos o un par de tortas, acompañado de una refrescante y recién preparada agua natural.</string>
+
+    <!-- Restaunrant hours for the option for Wayané [CHAR LIMIT=50] -->
+    <string name="restaurant_wayane_hour">Working Hours: Monday to Sunday 07:30 - 14:30</string>
+
+    <!-- Restaunrant phone for the option for Wayané [CHAR LIMIT=50] -->
+    <string name="restaurant_wayane_phone">+1 52 (999) 927 41 60</string>
+
+    <!-- Restaunrant website for the option for Wayané [CHAR LIMIT=50] -->
+    <string name="restaurant_wayane_website">www.wayane.com</string>
+
+    <!-- Restaurat name for the option for La Chaya Maya [CHAR LIMIT=20] -->
+    <string name="restaurant_chaya">La Chaya Maya</string>
+
+    <!-- Restaunrant description for the option for La Chaya Maya [CHAR LIMIT=1000] -->
+    <string name="restaurant_chaya_description">En el nostálgico ambiente de una antigua casona del histórico parque de Santa Lucía, el Restaurante La Chaya Maya ofrece los tradicionales platillos emblemáticos de la cocina yucateca además de sorprendentes y deliciosas variantes de la gastronomía peninsular. Un banquete de olores y sabores, de presencias y recuerdos: fusión. Pepita de calabaza, maíz, chile, frijol, chaya y el achiote refulgiendo en rojos del origen del pueblo maya. </string>
+
+    <!-- Restaunrant hours for the option for La Chaya Maya [CHAR LIMIT=50] -->
+    <string name="restaurant_chaya_hour">Working Hours: Monday to Friday 09:00 - 18:00</string>
+
+    <!-- Restaunrant phone for the option for La Chaya Maya [CHAR LIMIT=50] -->
+    <string name="restaurant_chaya_phone">+1 52 (999) 928 22 95</string>
+
+    <!-- Restaunrant website for the option for La Chaya Maya [CHAR LIMIT=50] -->
+    <string name="restaurant_chaya_website">ww.lachayamaya.com</string>
+
+    <!-- Shopping name for the option for La Isla [CHAR LIMIT=20] -->
+    <string name="shopping_isla">La Isla</string>
+
+    <!-- Shopping description for the option for La Isla [CHAR LIMIT=1000] -->
+    <string name="shopping_isla_description">La Isla Mérida está localizada en la ciudad de Mérida en el estado de Yucatán, dentro del desarrollo residencial Cabo Norte, el cual combina un centro comercial, área residencial y un hotel con 140 habitaciones.
+        La Isla cuenta con un lago, áreas verdes, jardineras, tiendas departamentales, joyerías y tiendas de especialidades; así como una amplia variedad de restaurantes y zonas de entretenimiento familiar como cines, área de juegos, auditorio, entre otros.
+        Ven a disfrutar de horas continuas de diversión en un ambiente ecológico de más de 70,000 metros cuadrados, practica deportes acuáticos no motorizados en el lago, maravíllate con la vista a bordo del cable park, y disfruta de las sorpresas que tenemos para ti. </string>
+
+    <!-- Shopping hours for the option for La Isla [CHAR LIMIT=50] -->
+    <string name="shopping_isla_hour">Working Hours: Sunday to Saturday 11:00 - 22:00</string>
+
+    <!-- Shopping phone for the option for La La Isla [CHAR LIMIT=50] -->
+    <string name="shopping_isla_phone">+1 52 (999) 928 22 95</string>
+
+    <!-- Shopping website for the option for La Isla [CHAR LIMIT=50] -->
+    <string name="shopping_isla_website">www.laislamerida.mx</string>
+
+    <!-- Shopping name for the option for Plaza Altabrisa [CHAR LIMIT=20] -->
+    <string name="shopping_altabrisa">Plaza Altabrisa</string>
+
+    <!-- Shopping description for the option for Plaza Altabrisa [CHAR LIMIT=1000] -->
+    <string name="shopping_altabrisa_description">Plaza Altabrisa es un lugar único en el Sureste de México. Un espacio generoso en proporciones, luminoso y de una elegancia contemporánea diseñado para que las compras, la diversión, el entretenimiento, el ejercicio y el trabajo resulten experiencias memorables.
+        Cuenta con más de 200 firmas de prestigio así como con salas de Cine VIP, food court con 25 locales, islas, restaurantes, gimnasio y un sinfín de servicios distribuidos en un espectacular edificio de más de 100 mil metros cuadrados de construcción y espacio de estacionamiento para más de 3 mil automóviles, de los cuales 1,600 se ubican en el área de sótano techado.</string>
+
+    <!-- Shopping hours for the option for Plaza Altabrisa [CHAR LIMIT=50] -->
+    <string name="shopping_altabrisa_hour">Working Hours: Sunday to Saturday 11:00 - 22:00</string>
+
+    <!-- Shopping phone for the option for Plaza Altabrisa [CHAR LIMIT=50] -->
+    <string name="shopping_altabrisa_phone">+1 52 (999) 167 97 19</string>
+
+    <!-- Shopping website for the option for Plaza Altabrisa [CHAR LIMIT=50] -->
+    <string name="shopping_altabrisa_website">www.plazaaltabrisa.com</string>
+
+    <!-- Shopping name for the option for The Harbor [CHAR LIMIT=20] -->
+    <string name="shopping_harbor">The Harbor</string>
+
+    <!-- Shopping description for the option for The Harbor [CHAR LIMIT=1000] -->
+    <string name="shopping_harbor_description">The Harbor Mérida se construirá sobre aproximadamente 50,000 metros cuadrados y se ubica en la intersección de Paseo Montejo y Periférico, las dos más importantes vías de la ciudad.
+    The Harbor Mérida cuenta con más de 300 metros lineales sobre la Avenida Paseo Montejo, la principal avenida de la ciudad, aunado a su moderno e impactante diseño, parques y lagos, harán que este destino sea uno de los más importantes de todo el Sureste Mexicano.</string>
+
+    <!-- Shopping hours for the option for The Harbor [CHAR LIMIT=50] -->
+    <string name="shopping_harbor_hour">Working Hours: Sunday to Saturday 11:00 - 22:00</string>
+
+    <!-- Shopping phone for the option for The Harbor [CHAR LIMIT=50] -->
+    <string name="shopping_harbor_phone">+1 52 (999) 167 97 19</string>
+
+    <!-- Shopping website for the option for The Harbor [CHAR LIMIT=50] -->
+    <string name="shopping_harbor_website">www.thorurbana.com/es/the-harbor-es</string>
+
+    <!-- Shopping name for the option for Plaza Galerias [CHAR LIMIT=20] -->
+    <string name="shopping_galerias">Plaza Galerias</string>
+
+    <!-- Shopping description for the option for Plaza Galerias [CHAR LIMIT=1000] -->
+    <string name="shopping_galerias_description">Plaza Galerias se construirá sobre aproximadamente 50,000 metros cuadrados y se ubica en la intersección de Paseo Montejo y Periférico, las dos más importantes vías de la ciudad.
+    Plaza Galerias cuenta con más de 300 metros lineales sobre la Avenida Paseo Montejo, la principal avenida de la ciudad, aunado a su moderno e impactante diseño, parques y lagos, harán que este destino sea uno de los más importantes de todo el Sureste Mexicano.</string>
+
+    <!-- Shopping hours for the option for Plaza Galerias [CHAR LIMIT=50] -->
+    <string name="shopping_galerias_hour">Working Hours: Sunday to Saturday 11:00 - 22:00</string>
+
+    <!-- Shopping phone for the option for Plaza Galerias [CHAR LIMIT=50] -->
+    <string name="shopping_galerias_phone">+1 52 (999) 941 57 54</string>
+
+    <!-- Shopping website for the option for Plaza Galerias [CHAR LIMIT=50] -->
+    <string name="shopping_galerias_website">www.galerias.com/GaleriasMerida</string>
+
+    <!-- Activities name for the option for Tour a los cenotes de Cuzamá [CHAR LIMIT=20] -->
+    <string name="activities_cuzama">Tour a los cenotes de Cuzamá</string>
+
+    <!-- Activities description for the option for Tour Cuzama [CHAR LIMIT=1000] -->
+    <string name="activities_cuzama_description">Cuzamá, famoso en la región por sus cenotes y la peculiar forma de visitarlos. El recorrido a través de los distintos cenotes se realiza en “trucks”, que son pequeños carros jalados por caballos a través de 7 km en caminos llenos de maleza, agregando un increíble sabor de aventura.
+        La región donde se localiza el municipio está clasificada como cálida semiseca con lluvias en verano, presentándose durante la época de éstas las llamadas sequías de medio verano. Tiene una temperatura medial anual de 26.3° C .
+    Durante el trayecto podrás apreciar los diferentes tonos azules que ofrecen estos cenotes y gozar de sus aguas cristalinas, además es posible admirar las hermosas formaciones rocosas que con el paso de los años se han esculpido naturalmente.</string>
+
+    <!-- Activities hours for the option for Tour Cuzama [CHAR LIMIT=50] -->
+    <string name="activities_cuzama_hour">Working Hours: Sunday to Saturday 09:00 - 18:00</string>
+
+    <!-- Activities phone for the option for Tour Cuzama [CHAR LIMIT=50] -->
+    <string name="activities_cuzama_phone">+1 52 (999) 941 57 54</string>
+
+    <!-- Activities website for the option for Tour Cuzama [CHAR LIMIT=50] -->
+    <string name="activities_cuzama_website">https://en-yucatan.com.mx/merida-yucatan/cenotes-de-cuzama</string>
+
+    <!-- Activities name for the option for Tour a Chichen Itzá [CHAR LIMIT=20] -->
+    <string name="activities_chichenitza">Tour a Chichen Itzá</string>
+
+    <!-- Activities description for the option for  Tour a Chichen Itzá [CHAR LIMIT=1000] -->
+    <string name="activities_chichenitza_description">Con el tour Xichén Clásico haz un viaje en el tiempo hacia la magnífica historia de Chichén Itzá, México en donde tú serás el protagonista.
+    Conoce las anécdotas y vive una experiencia memorable en esta maravilla del mundo moderno; sé testigo de la precisión astronómica y matemática de sus construcciones, y experimenta los sorprendentes efectos acústicos en lugares claves que el guía certificado te irá indicando.
+    Vibra con el misticismo del Cenote Sagrado Azul en Ik’Kil, mientras nadas en sus refrescantes aguas, y concluye tu visita con las delicias de la gastronomía de Yucatán.
+    Viaja con Xichén Clásico y sé el protagonista de tu propia historia.</string>
+
+    <!-- Activities hours for the option for  Tour a Chichen Itzá [CHAR LIMIT=50] -->
+    <string name="activities_chichenitza_hour">Working Hours: Sunday to Saturday 08:00 - 18:00</string>
+
+    <!-- Activities phone for the option for  Tour a Chichen Itzá [CHAR LIMIT=50] -->
+    <string name="activities_chichenitza_phone">+1 52 (999) 122 95 76</string>
+
+    <!-- Activities website for the option for Tour Cuzama [CHAR LIMIT=50] -->
+    <string name="activities_chichenitza_website">www.xichen.com.mx/tour-a-chichen-itza-clasico.php</string>
+
+    <!-- Activities name for the option for Tour a Celestun [CHAR LIMIT=20] -->
+    <string name="activities_celestun">Tour a Celestun</string>
+
+    <!-- Activities description for the option for Tour a Celestun [CHAR LIMIT=1000] -->
+    <string name="activities_celestun_description">Disfruta un día lleno de aventura en el Tour Celestún: un día de playa y naturaleza, que te llevará a conocer un poblado de pescadores ubicado a dos horas de la ciudad de Mérida, en donde pasarás un tiempo en contacto con la naturaleza y gozarás hermosas playas vírgenes ideales para nadar.
+        En Celestún podrás contemplar los bellos flamencos rosas que habitan esta región. También darás un paseo en lancha por el manglar para observar toda la extraordinaria naturaleza exótica a tu alrededor.
+        En el Tour Celestún: un día de playa y naturaleza también te darán un tiempo libre para estar en la playa, relajarte, nadar o asolearte, así como para observar la fauna y flora de esta región. Posteriormente, te llevarán a saborear una rica comida en un lugar situado frente al mar. Una vez concluida la comida, te llevarán de regreso a Mérida.</string>
+
+    <!-- Activities hours for the option for Tour a Celestun [CHAR LIMIT=50] -->
+    <string name="activities_celestun_hour">Working Hours: Sunday to Saturday 08:00 - 18:00</string>
+
+    <!-- Activities phone for the option for Tour a Celestun [CHAR LIMIT=50] -->
+    <string name="activities_celestun_phone">01 800 (237) 122 83 29</string>
+
+    <!-- Activities website for the option for Tour a Celestun [CHAR LIMIT=50] -->
+    <string name="activities_celestun_website">www.bestday.com.mx/Tours/celestun</string>
+
+    <!-- Activities name for the option for Bici Rutas [CHAR LIMIT=20] -->
+    <string name="activities_bicirutas">Bici Rutas</string>
+
+    <!-- Activities description for the option for Bici Rutas  [CHAR LIMIT=1000] -->
+    <string name="activities_bicirutas_description">Diviertete en la Bicirutas, ven a pasar un rato con tu familia rodando en la bicicleta. Tambien habra brincolines, Musica ambiental y mucho mas.</string>
+
+    <!-- Activities hours for the option for Bici Rutas  [CHAR LIMIT=50] -->
+    <string name="activities_bicirutas_hour">Working Hours: Saturday to Sunday 08:00 - 14:00</string>
+
+    <!-- Activities phone for the option for Bici Rutas  [CHAR LIMIT=50] -->
+    <string name="activities_bicirutas_phone">+1 52 (999) 923 14 50</string>
+
+    <!-- Activities website for the option for Bici Rutas  [CHAR LIMIT=50] -->
+    <string name="activities_bicirutas_website">www.merida.gob.mx/biciruta/</string>
+
+    <!-- Name of the city for all the options [CHAR LIMIT=20] -->
+    <string name="name_city">Merida, Yucatan</string>
+
+    <!-- Contact information of the developer [CHAR LIMIT=20] -->
+    <string name="contact_info">info@androidbasics.com</string>
+
+    <!-- Message for Share option in Menu[CHAR LIMIT=20] -->
+    <string name="share_menu">Share</string>
+</resources>
