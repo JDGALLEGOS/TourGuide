@@ -24,7 +24,7 @@
     <string name="hello_blank_fragment">Hello blank fragment</string>
 
     <!-- Museum name for the option for Museo Maya [CHAR LIMIT=20] -->
-    <string name="museum_maya">Gran Museo del Mundo Maya</string>
+    <string name="museum_maya" translatable="false">Gran Museo del Mundo Maya</string>
 
     <!-- Museum description for the option for Museo Maya [CHAR LIMIT=1000] -->
     <string name="museum_maya_description">El Museo exhibe una magnífica colección de más de 1,160 piezas que permite disfrutar, entre otros ejemplos, textiles, elementos religiosos, piezas y diversos objetos y enseres que reflejan la vida cotidiana actual de los mayas. También se muestran grabados, libros y documentos históricos, así como obras artísticas y religiosas de la época colonial; acervos de la época prehispánica que incluyen estelas, bajorrelieves y esculturas en piedra; vasijas, ajuares y ofrendas de cerámica, además de adornos y objetos suntuarios de oro, jade y concha. Todo ello forma un entramado en donde el pasado y el presente se conjugan a través de las nuevas tecnologías y sistemas digitales para permitirle al visitante viajar en el tiempo y retornar al presente.</string>
